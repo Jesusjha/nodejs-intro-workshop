@@ -9,8 +9,8 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "test:ex:01": "jest 01-exercise --watch"
+    "start": "nodemon src/index.js",
+    "test01": "jest 01-exercise --watch"
   },
   "repository": {
     "type": "git",
